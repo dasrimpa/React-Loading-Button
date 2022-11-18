@@ -1,5 +1,5 @@
 src/
-test/
-.npmignore
+node_modules/
 .babelrc
+package.json
 rollup.config.js
